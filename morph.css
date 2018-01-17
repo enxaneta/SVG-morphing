@@ -1,0 +1,19 @@
+body{background: #1e2730;}
+svg {  
+   width: 90%;  
+   border: 1px solid #31404e;  
+   position: absolute;  
+   margin: auto;  
+   top: 0;  
+   right: 0;  
+   bottom: 0;  
+   left: 0;
+   }
+.linenStroke {  
+   stroke: linen;  
+   fill: none;  
+   stroke-width: 8px;  
+   stroke-linejoin:round;}
+.YesNo{
+   stroke-width: 4px;
+   }
